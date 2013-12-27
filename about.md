@@ -5,4 +5,3 @@ title: About Jonathan Mukai-Heidt
 description: This is just a placeholder for now.
 ---
 
-### This is just a placeholder for now.
