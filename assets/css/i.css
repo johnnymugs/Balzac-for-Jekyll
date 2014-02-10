@@ -169,10 +169,6 @@ h6, .h6 {
   font-size: 12px;
 }
 
-blockquote, blockquote p {
-  font-size: 48px;
-}
-
 .archive input {
   font-size: 48px;
 }
@@ -220,10 +216,6 @@ blockquote, blockquote p {
 
   .meta {
     font-size: 12px;
-  }
-
-  blockquote, blockquote p {
-    font-size: 24px;
   }
 
   .archive input {
@@ -295,7 +287,6 @@ small {
 blockquote, blockquote p {
   font-style: italic;
   line-height: 1.3em;
-  text-align: center;
   color: #3c3c3c;
   margin-bottom: 33px;
 }
@@ -946,10 +937,6 @@ footer .social ul li:last-child {
 @media only screen and (max-width: 800px) {
   h1 {
     font-size: 48px;
-  }
-
-  blockquote, blockquote p {
-    font-size: 32px;
   }
 
   footer {
