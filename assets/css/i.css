@@ -972,6 +972,12 @@ footer .social ul li:last-child {
   footer .prev-posts li {
     margin-top: 16.5px;
   }
+  .hide-mobile {
+    display: none;
+  }
+  .tagline {
+    font-size: 12px;
+  }
 }
 @media only screen and (max-width: 680px) {
   /* All Posts */

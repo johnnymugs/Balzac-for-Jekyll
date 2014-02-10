@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: post
 permalink: /articles/index.html
 title: "Articles"
-tags: [blog, programming]
+image:
+  feature: IMG_20130216_201745.jpg
 ---
+

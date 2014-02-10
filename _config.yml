@@ -1,5 +1,5 @@
 title:            Must Yearn
-tagline:          The home of Jonathan Mukai-Heidt on the web.
+tagline:          Jonathan Mukai-Heidt
 description:      Johnny Mukai's blog on programming, etc.
 #Comment out url when working locally to resolve base urls correctly
 url: http://mustyearn.com
@@ -15,7 +15,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About Me
     url: /about
   - title: Github
     url: https://github.com/johnnymugs
