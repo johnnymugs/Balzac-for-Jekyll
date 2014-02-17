@@ -153,7 +153,7 @@ h3, .h3 {
   font-size: 32px;
 }
 
-h4, .h4 {
+h4, .h4, h2.display-small {
   font-size: 24px;
 }
 
@@ -572,7 +572,6 @@ header.site-header nav ul li a:hover {
 .article header hgroup {
   color: #3b3b3b;
   position: relative;
-  text-align: center;
   width: 100%;
   margin-top: 0;
 }
