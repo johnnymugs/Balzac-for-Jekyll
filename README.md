@@ -4,5 +4,5 @@ Just a repo for my blog.
 
 # TODO
 
-- Change default image
-- Make some actual content / rm default content
+- Change 404 images etc (no default images left!)
+- Link to previous articles from olden days
